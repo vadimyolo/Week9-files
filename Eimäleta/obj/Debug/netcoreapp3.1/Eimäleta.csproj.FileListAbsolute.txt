@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\bin\Debug\netcoreapp3.1\Eimäleta.exe
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\bin\Debug\netcoreapp3.1\Eimäleta.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\bin\Debug\netcoreapp3.1\Eimäleta.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\bin\Debug\netcoreapp3.1\Eimäleta.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\bin\Debug\netcoreapp3.1\Eimäleta.dll
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\bin\Debug\netcoreapp3.1\Eimäleta.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\obj\Debug\netcoreapp3.1\Eimäleta.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\obj\Debug\netcoreapp3.1\Eimäleta.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\obj\Debug\netcoreapp3.1\Eimäleta.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\obj\Debug\netcoreapp3.1\Eimäleta.dll
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\obj\Debug\netcoreapp3.1\Eimäleta.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\obj\Debug\netcoreapp3.1\Eimäleta.genruntimeconfig.cache
+C:\Users\opilane\source\repos\LOGITpe21\Filesystem\Eimäleta\obj\Debug\netcoreapp3.1\Eimäleta.csprojAssemblyReference.cache
